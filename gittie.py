@@ -4,3 +4,5 @@ def introduction():
 introduction()
 
 def joke():
+
+def shout():
